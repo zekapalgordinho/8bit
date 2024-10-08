@@ -83,5 +83,11 @@ criaCartao(
     'Matemática',
     'Quanto é 3.3?',
     '9',
-    
+
+)
+criaCartao(
+    'Matemática',
+    'Qual o valor de PI?',
+    '3,14',
+
 )
