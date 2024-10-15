@@ -22,7 +22,7 @@ criaCartao(
 criaCartao(
     'Biologia',
     'O que é cromossomo?',
-    'Cromossomos são estruturas que contêm o DNA, armazenando a informação genética. Em humanos, há 46 cromossomos (23 pares). Eles são essenciais para a divisão celular.',
+    'Cromossomos são estruturas que contêm o DNA, armazenando a informação genética. Em humanos, há 46 cromossomos (23 pares). Eles são essenciais para a divisão celular.'
 
 )
 criaCartao(
@@ -40,55 +40,55 @@ criaCartao(
 criaCartao(
     'Português',
     'O que é Pronone?',
-    'Pronomes são vocábulos que substituem ou acompanham um termo substantivo.',
+    'Pronomes são vocábulos que substituem ou acompanham um termo substantivo.'
 
 )
 criaCartao(
     'Português',
     'O que é uma charge?',
-    'Charge é um gênero textual jornalístico que tem como intenção principal fazer uma crítica sobre algum tema usando o humor.',
+    'Charge é um gênero textual jornalístico que tem como intenção principal fazer uma crítica sobre algum tema usando o humor.'
 
 )
 criaCartao(
     'Biologia',
     'O que é fotossíntese?',
-    'Fotossíntese é um processo realizado pelas plantas para a produção de energia necessária para a sua sobrevivência',
+    'Fotossíntese é um processo realizado pelas plantas para a produção de energia necessária para a sua sobrevivência'
 
 )
 criaCartao(
     'Geografia',
     'Qual a capital da Angola?',
-    'Luanda',
+    'Luanda'
 
 )
 criaCartao(
     'Geografia',
     'O que uma Ilha?',
-    'Uma ilha é qualquer pedaço de terra subcontinental cercada por água.',
+    'Uma ilha é qualquer pedaço de terra subcontinental cercada por água.'
 
 )
 criaCartao(
     'Astranomia',
     'O que é um Planeta?',
-    'Um planeta é um corpo celeste que orbita uma estrela, tem massa suficiente para que sua gravidade o torne esférico e não é uma estrela nem um satélite.',
+    'Um planeta é um corpo celeste que orbita uma estrela, tem massa suficiente para que sua gravidade o torne esférico e não é uma estrela nem um satélite.'
 
 )
 criaCartao(
     'Matemática',
     'Quanto é 2+2?',
-    '4',
+    '4'
 
 )
 criaCartao(
     'Matemática',
     'Quanto é 3.3?',
-    '9',
+    '9'
 
 )
 criaCartao(
     'Matemática',
     'Qual o valor de PI?',
-    '3,14',
+    '3,14'
 
 )
 criaQuestao(
