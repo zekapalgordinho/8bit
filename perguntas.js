@@ -16,7 +16,7 @@ criaCartao(
 criaCartao(
     'Química',
     'O que é Nox?',
-    'O NOX é a carga que um elemento adquire depois de realizar qualquer tipo de ligação para atingir a estabilidade (regra do octeto) ou de se manter no seu estado fundamental.',
+    'O NOX é a carga que um elemento adquire depois de realizar qualquer tipo de ligação para atingir a estabilidade (regra do octeto) ou de se manter no seu estado fundamental.'
 
 )
 criaCartao(
