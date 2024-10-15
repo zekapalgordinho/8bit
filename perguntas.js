@@ -91,3 +91,19 @@ criaCartao(
     '3,14',
 
 )
+criaQuestao(
+    'Cinemática',
+    'Um carro se desloca em linha reta com uma velocidade constante de 60 km/h. Qual a distância percorrida pelo carro em 2 horas?'
+)
+criaQuestao(
+    'Leis de Newton',
+    'Um objeto de 10 kg é puxado para cima por uma força de 120 N. Qual é a aceleração do objeto? (Considere a aceleração da gravidade como 9,8 m/s²)'
+)
+criaQuestao(
+    'Energia',
+    'Um bloco de massa 5 kg é elevado a uma altura de 10 metros. Qual é a energia potencial gravitacional do bloco em relação ao solo? (Use g = 9,8 m/s²)'
+)
+criaQuestao(
+    'Termodinâmica',
+    'O que é o princípio da conservação da energia em um sistema termodinâmico? Dê um exemplo prático que ilustre esse princípio.'
+)
