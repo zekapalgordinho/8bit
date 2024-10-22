@@ -91,19 +91,26 @@ criaCartao(
     '3,14'
 
 )
-criaQuestao(
+criaCartao(
     'Cinemática',
-    'Um carro se desloca em linha reta com uma velocidade constante de 60 km/h. Qual a distância percorrida pelo carro em 2 horas?'
+    'Um carro se desloca em linha reta com uma velocidade constante de 60 km/h. Qual a distância percorrida pelo carro em 2 horas?',
 )
-criaQuestao(
+criaCartao(
     'Leis de Newton',
-    'Um objeto de 10 kg é puxado para cima por uma força de 120 N. Qual é a aceleração do objeto? (Considere a aceleração da gravidade como 9,8 m/s²)'
+    'Um objeto de 10 kg é puxado para cima por uma força de 120 N. Qual é a aceleração do objeto? (Considere a aceleração da gravidade como 9,8 m/s²)',
 )
-criaQuestao(
-    'Energia',
-    'Um bloco de massa 5 kg é elevado a uma altura de 10 metros. Qual é a energia potencial gravitacional do bloco em relação ao solo? (Use g = 9,8 m/s²)'
+criaCartao(
+    'História',
+    'Qual foi o país responsável pelo descobrimento do Brasil?',
+    'Reino de Portugal',
 )
-criaQuestao(
-    'Termodinâmica',
-    'O que é o princípio da conservação da energia em um sistema termodinâmico? Dê um exemplo prático que ilustre esse princípio.'
+criaCartao(
+    'Geografia',
+    'O que é Geopolítica?',
+    'A geopolítica é uma área que se concentra na interseção entre geografia, relações internacionais e dinâmica de poder global.',
+)
+criaCartao(
+    'Quimíca',
+    'O que são Hidrocarbonetos?',
+    'Os hidrocarbonetos são compostos formados apenas por carbono e hidrogênio.',
 )
