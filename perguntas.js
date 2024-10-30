@@ -10,7 +10,7 @@ criaCartao(
 )
 criaCartao(
      'Português',
-    'O que é adjtivo?',
+    'O que é adjetivo?',
     'Adjetivo é toda palavra que caracteriza o substantivo, indicando-lhe qualidade, defeito, estado, condição, etc.'
 )
 criaCartao(
