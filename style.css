@@ -7,12 +7,12 @@
     --branco: white;
 }
 body{
-    background-color: var(--branco);
+    background-color: var(--fundo);
 }
 footer{
     position: fixed;
     bottom: 0;
-    background-color: var(--preto);
+    background-color: var(--branco);
     color: var(--branco);
     width: 100%;
     text-align: center;
