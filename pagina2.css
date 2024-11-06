@@ -30,12 +30,12 @@ text-align: center ;
     color: var(--branco); 
     box-shadow: 5px 5px 5px var(--preto);
     cursor: pointer;
-    
 } 
  
 .resposta-cartao{
     padding: 40px;
     background-color: var(--cartao-verso);
+    display: none;
 }
 .conteudo-cartao:hover{
     transform: scale(1,2);
