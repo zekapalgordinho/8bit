@@ -9,6 +9,17 @@
 body{
     background-color: var(--fundo);     
 }
+
+header{
+    background-color: var(--preto);
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header a {
+    color: var(--branco);
+}
 footer{
     position: fixed;
     bottom: 0;
@@ -38,6 +49,6 @@ text-align: center ;
     display: none;
 }
 .conteudo-cartao:hover{
-    transform: scale(1,2);
+    transform: scale(1.2);
 
 }
