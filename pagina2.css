@@ -48,7 +48,8 @@ text-align: center ;
     background-color: var(--cartao-verso);
     display: none;
 }
+
 .conteudo-cartao:hover{
-    transform: scale(1.2);
+    transform: scale(1.04);
 
 }
